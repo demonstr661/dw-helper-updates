@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "extension": {
+    "version": "3.2.2",
+    "url": "https://raw.githubusercontent.com/demonstr661/dw-helper-updates/main/DW-Helper-3.2.2-Kiwi.zip",
+    "sha256": "6513bd910c61778aacab1d17dc7aaa25d91362028a0f3033ef2ccb57c034d302",
+    "notes": "Встроенное расширение 3.2.2 для Kiwi"
+  },
+  "installer": {
+    "version": "3.3.5",
+    "url": "https://raw.githubusercontent.com/demonstr661/dw-helper-updates/main/DW-Helper-3.3.5.apk",
+    "sha256": "56f51de37cf53d33beb925a264adb075434a4d16568aa9f763a683539c1a461f",
+    "notes": "Исправлен холодный запуск при отказе фонового планировщика; ручная проверка обновлений сохранена"
+  }
+}
