@@ -1,0 +1,8 @@
+name = "dwhelperupdates-bot"
+main = "worker.js"
+compatibility_date = "2026-11-07"
+workers_dev = true
+
+[vars]
+BOT_USERNAME = "DWHelperUpdates_bot"
+UPDATES_URL = "https://raw.githubusercontent.com/demonstr661/dw-helper-updates/main/updates.json"
