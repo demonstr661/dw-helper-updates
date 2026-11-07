@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "extension": {
-    "version": "1.59.0",
-    "url": "https://yvtyluduyokygaglkmpw.supabase.co/storage/v1/object/public/releases/DW-Helper-1.59.0-Kiwi.zip",
-    "sha256": "3cf2cc0aa70ce31c077764c0a4c0f4dae9b1d8a095a4dda2355fb77a204f2578",
-    "notes": "Капча решается через фоновый модуль; после хода страница боя обновляется автоматически через 1 секунду; постоянные режимы сохранены"
+    "version": "1.60.0",
+    "url": "https://yvtyluduyokygaglkmpw.supabase.co/storage/v1/object/public/releases/DW-Helper-1.60.0-Kiwi.zip",
+    "sha256": "54ba8d196e41d3ab8025d24020f7c22de4068cf28e361d395d595ff809198b7f",
+    "notes": "После боя автонападение нажимает «В земли грёз»; капча принимает числовые ответы на вопросы без ограничения 5–6 цифр"
   },
   "installer": {
     "version": "3.3.5",
