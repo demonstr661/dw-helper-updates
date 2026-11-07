@@ -8,7 +8,7 @@
   },
   "installer": {
     "version": "3.3.5",
-    "url": "https://raw.githubusercontent.com/demonstr661/dw-helper-updates/main/DW-Helper-3.3.5.apk",
+    "url": "https://yvtyluduyokygaglkmpw.supabase.co/storage/v1/object/public/releases/DW-Helper-3.3.5.apk",
     "sha256": "56f51de37cf53d33beb925a264adb075434a4d16568aa9f763a683539c1a461f",
     "notes": "Исправлен холодный запуск при отказе фонового планировщика; ручная проверка обновлений сохранена"
   }
